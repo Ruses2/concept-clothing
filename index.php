@@ -41,7 +41,7 @@
 	</style>
 </head>
 <body>
-	<!----header--->
+	
 	<header>
 		<a href="#" class="logo">TheConcept</a>
 
@@ -68,8 +68,6 @@
 		</div>
 	</section> 
 
-
-	<!----featured--->
 	<section class="featured" id="featured">
 		<div class="center-text">
 			<h2>Featured Categories</h2>
@@ -132,16 +130,12 @@
 
 		</div>
 	</section>
-
-	<!----cta--->
 	<section class="home3">
 		<div class="cta-text">
 			<h4>Built For <br> Winter</h4>
 			<a href="#" class="btn">Shop Now</a>
 		</div>
 	</section>
-
-	<!----new--->
 	<section class="new" id="new">
 		<div class="center-text">
 			<h2>New Featured Products</h2>
@@ -154,29 +148,23 @@
 				<h5>Full Sleeve Jacket</h5>
 					<h6>Nrs.2500</h6>
 			</div>
-
 			<div class="box">
 				<img src="img/tren2.jpg">
 				<h5>Black Joggers</h5>
 				<h6>Nrs.1600</h6>
 			</div>
-
 			<div class="box">
 				<img src="img/tren3.jpg">
 				<h5>Plain Hoodie</h5>
 				<h6>Nrs.2000</h6>
 			</div>
-
 			<div class="box">
 				<img src="img/tren4.jpg">
 				<h5>Navy Blue Joggers</h5>
 				<h6>Nrs.1600</h6>
 			</div>
-
 		</div>
 	</section>
-
-	<!----contact--->
 	<section class="contact" id="contact">
 		<div class="main-contact">
 			<h3>TheConcept</h3>
@@ -186,7 +174,6 @@
 				
 			</div>
 		</div>
-
 		<div class="main-contact">
 			<h3>Explore</h3>
 			<li><a href="#home">Home</a></li>
@@ -194,12 +181,10 @@
 			<li><a href="#new">New</a></li>
 			<li><a href="#contact">Contact</a></li>
 		</div>
-
 		<div class="main-contact">
 			<h3>Our Services</h3>
 			<li><a href="#">Pricing</a></li>
 		</div>
-
 		<div class="main-contact">
 			<h3>Contact Us</h3>
 			<li><a href="#">+01 4336414</a></li>
@@ -207,12 +192,6 @@
 		</div>
 
 	</section>
-<!-- 
-	<div class="last-text">
-		<p>Copyright © 2023</p>
-	</div> -->
-
-
 	<a href="#" class="top"><i class='bx bx-up-arrow-alt' ></i></a>
 
 
