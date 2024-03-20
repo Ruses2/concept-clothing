@@ -2,7 +2,6 @@
 	require('html/includes/dbcon.php');
 	session_start();
 	$user = $_SESSION['user'];
-	// print_r($user);
 
 	$query = "SELECT * FROM product";
 
@@ -50,12 +49,11 @@
 			color: var(--main-color);
 		}
 		img{
-			/* max-height: 300px; */
+			
 		}
 	</style>
 </head>
 <body>
-	<!----header--->
 	<header>
 		<a href="#" class="logo">TheConcept</a>
 
@@ -76,8 +74,6 @@
 		</div>
 	</header>
 
-
-	<!----featured--->
 	<section class="featured" id="featured">
 		<div class="center-text">
 			<h2>Featured Categories</h2>
@@ -106,9 +102,6 @@
 		</div>
 	</section>
 
-	
-
-	<!----contact--->
 	<section class="contact" id="contact">
 		<div class="main-contact">
 			<h3>TheConcept</h3>
@@ -143,13 +136,11 @@
 		<p>Copyright © 2023</p>
 	</div>
 
-	<!----scroll top--->
 	<a href="#" class="top"><i class='bx bx-up-arrow-alt' ></i></a>
 
 
 	<script src="https://unpkg.com/scrollreveal"></script>
 
-	<!----custom js link--->
 	<script src="js/script.js"></script>
 	
 </body>
